@@ -17,6 +17,8 @@
 #include "display.h"
 #include "lnet.h"
 
+// this is the JH branch!
+
 unsigned int secondCounter = 0;
 unsigned int lnetTimeoutCounter = 0;	// offset so timers don't run at the same time
 unsigned int beepCounter = 0;
