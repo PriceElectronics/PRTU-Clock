@@ -1,4 +1,4 @@
-//multiple comments - this was typed by Justin; JayDubs has been fired.
+//multiple comments
 #include <p18f4620.h>
 #include "main.h"
 #include "lnet.h"
