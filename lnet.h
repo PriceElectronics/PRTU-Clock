@@ -1,3 +1,4 @@
+//multiple comments
 #ifndef LNET_H
 #define LNET_H
 

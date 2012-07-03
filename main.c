@@ -1,10 +1,11 @@
+
 /*****************************************
 * @title	main.c dfslkjafdsjlkfdsjlk;fsd
 * @descrip	PRTU Clock
 * @author	Jordan Hiebert
 * @version	v1.00, 07-Jun-2011
 ******************************************/
-
+//multiple comments
 // ***** Config bits *****
 #pragma config OSC=HS, IESO=OFF, FCMEN=OFF
 #pragma config WDT=OFF, PBADEN=OFF, BOREN=OFF
