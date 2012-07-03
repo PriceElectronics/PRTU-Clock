@@ -13,7 +13,6 @@ volatile unsigned char rxWriteIndex;
 
 //-----------------------------------------------------------------------------
 // checksumGood - runs a checksum on an LNET page and returns TRUE or FALSE
-// comments are good
 unsigned char checksumGood(void)
 {
 	signed int temp_hold = 0;		// Zero our checksum buffer
