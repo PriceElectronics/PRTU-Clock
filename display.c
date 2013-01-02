@@ -1,3 +1,7 @@
+/*
+http://stackoverflow.com/questions/7167645/how-do-i-create-a-new-git-branch-from-an-old-commit
+Used git branch newBranch oldeBranch
+*/
 #include <p18f4620.h>
 #include "main.h"
 #include "lnet.h"
