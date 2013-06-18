@@ -1,5 +1,5 @@
 #include <p18f4620.h>
-
+//tests
 //-----------------------------------------------------------------------------
 // initPorts - does a checksum on a new page and extracts the time
 void initPorts(void)
